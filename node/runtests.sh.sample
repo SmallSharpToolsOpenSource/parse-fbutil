@@ -2,7 +2,7 @@
 
 # Create an app profile on Facebook
 # http://developers.facebook.com/
-# User Graph Explorer to get the App Access Token
+# Use Graph Explorer to get the App Access Token
 # https://developers.facebook.com/tools/explorer/
 
 export FACEBOOK_APP_ID="CHANGE";
