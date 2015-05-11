@@ -4,10 +4,10 @@ Facebook Utility for Parse
 
 ### Setup
 
-# Run `npm install` in the node folder
-# Update config/global.json with real values for a Parse app
-# Copy node/runtests.sh.sample to node/runtests.sh and update with real values
-# Run node/runtests.sh to test fbutil.js
+ * Run `npm install` in the node folder
+ * Update config/global.json with real values for a Parse app
+ * Copy node/runtests.sh.sample to node/runtests.sh and update with real values
+ * Run node/runtests.sh to test fbutil.js
 
 For a real Parse application only the file fbutil.js is needed. It
 should be placed in the cloud folder and should be initialized
