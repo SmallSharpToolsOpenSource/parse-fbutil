@@ -20,6 +20,7 @@
     };
 
     var FB = {
+        version : "0.0.1",
         config: {},
         initialize: function (facebookClassName, appId, appAccessToken) {
             if (!appId || !appId.length) {
