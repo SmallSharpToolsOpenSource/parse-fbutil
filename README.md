@@ -20,6 +20,19 @@ login process it is sometimes necessary to become the user so
 that the Parse identity can be paired with a Facebook identity
 so that existing data for that user is accessible.
 
+### Local Parse Cloud Code
+
+This module is set up to be testable locally. The module `parse-cloud`
+is leveraged to allow for some backend functionality to work while
+REST communications and other code run locally. Making the module
+testable locally helps to speed up development and to automatically
+check the code base during development.
+
+Environment variables are used with the test scripts. The module
+itself simply takes parameters to initialize the module. These
+values can be stored in any way. These values could even be
+stored in global.json and made to work with the configured app.
+
 ### License
 
 MIT
