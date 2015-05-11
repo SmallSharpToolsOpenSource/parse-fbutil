@@ -1,0 +1,20 @@
+{
+  "name": "parse-fbutil-dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "tests.js"
+  },
+  "author": "Brennan Stehling",
+  "license": "MIT",
+  "devDependencies": {
+    "argparse": "^0.1.15",
+    "node-uuid": "^1.4.3",
+    "parse": "~1.4.0",
+    "parse-cloud": "0.0.82",
+    "rest": "^1.2.0",
+    "tap": "^0.4.13",
+    "when": "^3.6.3"
+  }
+}

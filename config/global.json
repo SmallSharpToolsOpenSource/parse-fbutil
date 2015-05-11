@@ -1,0 +1,20 @@
+{
+    "applications": {
+        "production": {
+            "applicationId": "CHANGE",
+            "javascriptKey": "CHANGE",
+            "masterKey": "CHANGE"
+        },
+        "staging": {
+            "applicationId": "CHANGE",
+            "javascriptKey": "CHANGE",
+            "masterKey": "CHANGE"
+        },
+        "_default": {
+            "link": "staging"
+        }
+    },
+    "global": {
+        "parseVersion": "1.4.2"
+    }
+}
