@@ -20,5 +20,10 @@ login process it is sometimes necessary to become the user so
 that the Parse identity can be paired with a Facebook identity
 so that existing data for that user is accessible.
 
-# Credits
+### Credits
 Brennan Stehling - @smallsharptools
+
+### Feedback
+
+Please use the GitHub issues system to submit questions, concerns
+or even pull requests with changes.
